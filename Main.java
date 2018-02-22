@@ -3,5 +3,6 @@ public class Areacalculation{
 		double r=5.4;
 		double area=r*r*Math.PI;
 		System.out.println(area);
+		System.out.println(area/2));
 	}
 }
